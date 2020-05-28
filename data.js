@@ -1,7 +1,7 @@
 export const people = [
 	{
 		id: '1',
-		name: 'Skywalker',
+		name: 'Skywalker Swoole',
 		height: '172',
 		mass: '77',
 		hair_color: 'blond',
